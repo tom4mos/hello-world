@@ -1,2 +1,2 @@
 # hello-world
-tutorial work
+First repository to have a play around with how this works.
